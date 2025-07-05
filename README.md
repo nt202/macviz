@@ -1,3 +1,4 @@
+![MacViz Logo](./logo.png)
 # MacViz - MAC Address Visualizer
 
 ## 🔍 Overview
